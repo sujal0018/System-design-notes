@@ -36,4 +36,3 @@ Collecting system data for monitoring and analysis:
 ### Scalability and Extensibility
 Scalability is handling growth in users/data, while extensibility is easily adding new features.
 
-## LLD->
